@@ -41,6 +41,8 @@ app/build/outputs/apk/ → APK files (debug and release)
 
 README.md → This file
 
+The APK is in the "release" folder. 
+
 You can install the debug APK on your phone to try it out.
 
 Author
