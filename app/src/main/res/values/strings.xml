@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlexiBudget</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_graph">View Graph</string>
+    <string name="your_reward_will_appear_here">Your reward will appear here</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="save_expense">Save Expense</string>
+</resources>

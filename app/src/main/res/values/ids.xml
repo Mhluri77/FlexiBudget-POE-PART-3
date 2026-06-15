@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAddExpense" type="id" />
+    <item name="appLogo" type="id" />
+    <item name="main" type="id" />
+    <item name="btnViewGraph" type="id" />
+    <item name="btnRewards" type="id" />
+    <item name="etAmount" type="id" />
+    <item name="btnSaveExpense" type="id" />
+    <item name="etCategory" type="id" />
+</resources>
