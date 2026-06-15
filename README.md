@@ -51,6 +51,6 @@ Demonstration videos link:
 
 https://drive.google.com/file/d/1vhLrQb4GAgwdZXlkhCM5cNIXeerh5bj8/view?usp=sharing (The first recording when i was still working on it in Android Studio.)
 
-https://drive.google.com/file/d/1tiFFPsC-NQ_rH_a3JM7jBzaULARIgnti/view?usp=sharing (The second recording of the installation of the app and the features.)
+https://drive.google.com/file/d/1tiFFPsC-NQ_rH_a3JM7jBzaULARIgnti/view?usp=sharing (The second recording of the installation of the app on my android device and the features.)
 
 I uploaded on Google Drive because Youtube kept taking it down and flagging it as abusive content.
